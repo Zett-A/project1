@@ -1,0 +1,5 @@
+Hello Git 12345
+
+It's new line. 12345
+
+Add new function, in 3 step.
